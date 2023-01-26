@@ -1,0 +1,1 @@
+This is the README for The Odin Project's Foundations; the Landing Page project. It showcases HTML and CSS layout knowledge.
